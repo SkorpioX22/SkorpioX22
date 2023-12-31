@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SkorpioX22
-- 🎹 Part-time EDM Artist on BandLab, starring as NovaTrax
+- 🎹 Part-time EDM Artist on BandLab and Spotify, starring as NovaTrax
 - 👀 I’m interested in general programming. (VScode is still the best IDE)
 - 🌱 I’m currently learning Python, HTML5, VBS, PYTHON, C, C++, C#
 - 💾 Currently working on my project, DCSS!
