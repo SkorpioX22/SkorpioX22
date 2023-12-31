@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @SkorpioX22
-- 🙂 Pronouns: He/Him
 - 🎹 Part-time EDM Artist on BandLab, starring as NovaTrax
 - 👀 I’m interested in general programming. (VScode is still the best IDE)
 - 🌱 I’m currently learning Python, HTML5, VBS, PYTHON, C, C++, C#
