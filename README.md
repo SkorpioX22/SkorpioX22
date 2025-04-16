@@ -1,6 +1,7 @@
-Just some guy who likes music production, Python, Arduino, 3D printing and 3D modelling with Freecad and Blender.
+just a curious mind into music production, python, arduino, and making things in 3d.
+freecad & blender enthusiast with a soft spot for controlled chaos.
 
-wanna stalk me? > https://notnt.carrd.co
+peek if you dare → notnt.carrd.co
 
 ⠰⣂⠳⢌⠦⠱⡌⠦⠱⡌⠦⠱⡌⢦⠱⣌⠲⡱⡘⠆⠃⠂⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⡘⢦⡑⢎⡔⠣⡜⢢⠱⡌
 ⢓⡌⠳⡌⢎⡱⢌⢣⠓⣌⢣⠓⡜⢢⠓⡌⠑⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡱⢢⡙⢦⡘⡱⢌⢣⠓⡜
