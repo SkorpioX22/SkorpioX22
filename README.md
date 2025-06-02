@@ -1,5 +1,4 @@
-just a curious mind into music production, python, arduino, and making things in 3d.
-freecad & blender enthusiast with a soft spot for controlled chaos.
+3D Modelling | 3D Printing | Software Development | Music Production | Photography
 
 peek if you dare → notnt.carrd.co
 
