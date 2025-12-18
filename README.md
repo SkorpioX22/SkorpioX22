@@ -6,5 +6,5 @@
 ![Photography](https://img.shields.io/badge/Photography-%23FFB000?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 
-[![Co-founder of](https://img.shields.io/badge/Co--founder%20of-Spontaneous%20Creations-00C853?style=for-the-badge)](https://spotaneous.carrd.co/)
+[![Co-founder of](https://img.shields.io/badge/Co--founder%20of-Spontaneous%20Creations-00C853?style=for-the-badge)](https://printwithspontaneous.carrd.co/)
 
