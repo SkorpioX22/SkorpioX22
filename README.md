@@ -1,4 +1,4 @@
-# Dave Cruz
+# Dave Cruz ![](https://komarev.com/ghpvc/?username=skorpiox22)
 ![3D Modelling (FreeCAD)](https://img.shields.io/badge/3D%20Modelling-FreeCAD-%23007ACC?style=for-the-badge&logo=freecad&logoColor=white)
 ![3D Printing](https://img.shields.io/badge/3D%20Printing-%23FF6F00?style=for-the-badge&logo=thingiverse&logoColor=white)
 ![Software Development](https://img.shields.io/badge/Software%20Dev-%23121011?style=for-the-badge&logo=visual-studio-code&logoColor=white)
