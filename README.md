@@ -1,10 +1,41 @@
-# Dave Cruz ![](https://komarev.com/ghpvc/?username=skorpiox22&color=313f2c)
-![3D Modelling (FreeCAD)](https://img.shields.io/badge/3D%20Modelling-FreeCAD-%23007ACC?style=for-the-badge&logo=freecad&logoColor=white)
-![3D Printing](https://img.shields.io/badge/3D%20Printing-%23FF6F00?style=for-the-badge&logo=thingiverse&logoColor=white)
-![Software Development](https://img.shields.io/badge/Software%20Dev-%23121011?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Music Production](https://img.shields.io/badge/Music%20Production-%23FF69B4?style=for-the-badge&logo=ableton&logoColor=white)
-![Photography](https://img.shields.io/badge/Photography-%23FFB000?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+<!-- subtle pyro theme -->
 
+<h1 align="center">
+   > > > Dave Cruz < < <
+</h1>
 
-[![Co-founder of](https://img.shields.io/badge/Co--founder%20of-Spontaneous%20Creations-00C853?style=for-the-badge)](https://printwithspontaneous.carrd.co/)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=skorpiox22&color=ff6a00" />
+</p>
 
+<p align="center">
+  <em>engineering with intent</em>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/3D%20Modelling-FreeCAD-%23ff6a00?style=for-the-badge&logo=freecad&logoColor=white" />
+  <img src="https://img.shields.io/badge/3D%20Printing-%23ff8c00?style=for-the-badge&logo=thingiverse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software%20Dev-%23121011?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Music%20Production-%23ff4d6d?style=for-the-badge&logo=ableton&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photography-%23ffb000?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Co--founder%20of-Spontaneous%20Creations-ff6a00?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://printwithspontaneous.carrd.co/">
+    🔗 printwithspontaneous.carrd.co
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>thanks for stopping by.</sub>
+</p>
