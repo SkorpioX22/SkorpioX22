@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  <em>engineering with intent</em>
+  <em>starring repositories I like or use and sometimes creating my own projects.</em>
 </p>
 
 
