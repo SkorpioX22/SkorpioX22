@@ -8,7 +8,7 @@
 
 [🔗 printwithspontaneous.carrd.co](https://printwithspontaneous.carrd.co/)
 
-**Big thank you to my Ambassador Parters:**
+**Big thank you to my Ambassador Partners:**
 <img width="828" height="263" alt="image" src="https://github.com/user-attachments/assets/d2095b04-94c3-4f42-85f7-afdee00c023a" />
 
 
