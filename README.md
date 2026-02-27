@@ -1,27 +1,15 @@
-<h1>
-   skorpioX22
-</h1>
+# skorpioX22
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=skorpiox22&color=ff6a00" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=skorpiox22&color=ff6a00)
 
-<p>
-  <em>starring repositories I like or use and sometimes creating my own projects.</em>
-</p>
+*starring repositories I like or use and sometimes creating my own projects.*
 
+![Co-founder Badge](https://img.shields.io/badge/Co--founder%20of-Spontaneous%20Creations-ff6a00?style=for-the-badge)
 
-<p>
-  <img src="https://img.shields.io/badge/Co--founder%20of-Spontaneous%20Creations-ff6a00?style=for-the-badge" />
-</p>
+[🔗 printwithspontaneous.carrd.co](https://printwithspontaneous.carrd.co/)
 
-<p>
-  <a href="https://printwithspontaneous.carrd.co/">
-    🔗 printwithspontaneous.carrd.co
-  </a>
-</p>
+**Big thank you to my Ambassador Parters:**
+<img width="828" height="263" alt="image" src="https://github.com/user-attachments/assets/d2095b04-94c3-4f42-85f7-afdee00c023a" />
 
 
-<p>
-  <sub>thanks for stopping by.</sub>
-</p>
+<sub>thanks for stopping by.</sub>
