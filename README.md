@@ -2,9 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=skorpiox22&color=ff6a00)
 
-*starring repositories I like or use and sometimes creating my own projects.*
-
-Have my projects helped you? Feel free to buy me a coffee! (through crypto :P)
+***starring repositories I like or use and sometimes creating my own projects.*
+**
+> Have my projects helped you? Feel free to buy me a coffee! (through crypto :P)
 
 **SOLANA NETWORK:** `AERpCJcNCNEymfounLqKR7esgw58aPJYWoqtxtKVkyqf`
 
