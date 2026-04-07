@@ -4,6 +4,14 @@
 
 *starring repositories I like or use and sometimes creating my own projects.*
 
+Have my projects helped you? Feel free to buy me a coffee! (through crypto :P)
+
+**SOLANA NETWORK:** `AERpCJcNCNEymfounLqKR7esgw58aPJYWoqtxtKVkyqf`
+
+**ETHEREUM:** `0x0aeB21b2c718A54E90C683BB6b3A98fc0046F4C1`
+
+**BITCOIN (TAPROOT):** `bc1purjqzrjsg02psf8eyjwcnkugfrz2d3fkluxrk4czyfap7x9wkfnq5qhndk`
+
 ![Co-founder Badge](https://img.shields.io/badge/Co--founder%20of-Spontaneous%20Creations-ff6a00?style=for-the-badge)
 
 [🔗 printwithspontaneous.carrd.co](https://printwithspontaneous.carrd.co/)
