@@ -1,9 +1,7 @@
-# skorpioX22
+# skorpioX22 - I just like open source.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=skorpiox22&color=ff6a00)
-
-**starring repositories I like or use and sometimes creating my own projects.**
-> Have my projects helped you? Feel free to buy me a coffee! (through crypto :P)
+> Have my projects helped you? Feel free to send some coin!
 
 **SOLANA NETWORK:** `AERpCJcNCNEymfounLqKR7esgw58aPJYWoqtxtKVkyqf`
 
@@ -11,9 +9,7 @@
 
 **BITCOIN (TAPROOT):** `bc1purjqzrjsg02psf8eyjwcnkugfrz2d3fkluxrk4czyfap7x9wkfnq5qhndk`
 
-![Co-founder Badge](https://img.shields.io/badge/Co--founder%20of-Spontaneous%20Creations-ff6a00?style=for-the-badge)
-
-[🔗 printwithspontaneous.carrd.co](https://printwithspontaneous.carrd.co/)
+Stuff you wanna tell me? davecuyler.cruz@gmail.com
 
 ## **Big thank you to my Ambassador Partners:**
 <img width="828" height="263" alt="image" src="https://github.com/user-attachments/assets/d2095b04-94c3-4f42-85f7-afdee00c023a" />
