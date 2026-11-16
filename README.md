@@ -8,4 +8,4 @@ FPV Pilot, embedded systems, and a supporter for AI assisted dev workflows.
 
  **AI APIs:** OpenRouter, DeepSeek.
 
- The main programming/scripting languages I work with include python, C++, HTML, CSS, Java, Javascript, and Rust. 
+ The main programming/scripting languages I work with include python 3, C++, HTML, CSS, Java, Javascript, and Rust. 
