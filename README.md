@@ -7,3 +7,5 @@ FPV Pilot, embedded systems, and a supporter for AI assisted dev workflows.
 **Dev workflow:** VScode, OpenCode, llama.
 
  **AI APIs:** OpenRouter, DeepSeek.
+
+ The main programming/scripting languages I work with include python, C++, HTML, CSS, Java, Javascript, and Rust. 
