@@ -1,6 +1,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=skorpiox22&color=ff6a00)
 
-FPV Pilot, embedded systems, and a supporter for AI assisted dev workflows.
+FPV Pilot.
+I experiment with embedded systems, software, and more. 
+I also love testing new products and devices.
 
 ## _tools I use:_
 
