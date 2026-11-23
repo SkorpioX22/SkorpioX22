@@ -2,14 +2,16 @@
 
 FPV Pilot.
 
-I experiment with embedded systems, software, and more. 
+I like experimenting with embedded systems, software, and pretty much anything tech-related.
 
-I also love testing new products and devices.
+I'm also into trying out new products and devices, especially getting hands-on with hardware and testing things before they hit the market.
+
+I've had the opportunity to do pre-release product testing for ViFly and Heltec Automation.
 
 ## _tools I use:_
 
-**Dev workflow:** VScode, OpenCode, llama.
+**Dev workflow:** VS Code, OpenCode, Llama
 
- **AI APIs:** OpenRouter, DeepSeek.
+**AI APIs:** OpenRouter, DeepSeek
 
- The main programming/scripting languages I work with include python 3, C++, HTML, CSS, Java, Javascript, and Rust. 
+**Languages:** Python 3, C++, HTML, CSS, Java, JavaScript, Rust.
